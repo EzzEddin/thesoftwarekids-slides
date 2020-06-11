@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://fervent-joliot-b679eb.netlify.app/">
-  <img src="swkids.png" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;">
+  <img src="swkids-gh.png" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;">
   </a>
   <br><br>
 </p>
