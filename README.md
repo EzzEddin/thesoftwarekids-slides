@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://fervent-joliot-b679eb.netlify.app/">
-  <img src="swkids-gh.png" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;">
+  <img src="swkids-gh.png" style="height: 120px; margin: 0 auto 4rem auto; background: transparent;">
   </a>
   <br><br>
 </p>
@@ -10,8 +10,17 @@ The Software Kids is a beautiful presentation slides (using [reveal.js](https://
 The framework comes with a broad range of features including [nested slides](https://revealjs.com/vertical-slides/), [Markdown support](https://revealjs.com/markdown/), [Auto-Animate](https://revealjs.com/auto-animate/), [PDF export](https://revealjs.com/pdf-export/), [speaker notes](https://revealjs.com/speaker-view/), [LaTeX support](https://revealjs.com/math/), [syntax highlighted code](https://revealjs.com/code/) and much more.
 
 <h1>
-  <a href="https://revealjs.com/installation" style="font-size: 3em;">Get Started</a>
+  <a href="https://fervent-joliot-b679eb.netlify.app/" style="font-size: 3em;">Projects so far</a>
 </h1>
+
+1. [Classicle](https://github.com/EzzEddin/classicle)
+A Natural Language Processing project to classify articles into five classes.
+
+2. [Reck](https://github.com/EzzEddin/Reck)
+A web application that can recognize and detect faces
+
+3. [Gatsby Portfolio](https://github.com/EzzEddin/my-gatsby-blog)
+A sample website deployed on netlify to replicate my [github portfolio](https://ezzeddin.github.io/)
 
 ## Documentation
 The full reveal.js documentation is available at [revealjs.com](https://revealjs.com).
