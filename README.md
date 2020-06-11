@@ -5,9 +5,9 @@
   <br><br>
 </p>
 
-The Software Kids is a beautiful presentation slides (using [reveal.js](https://revealjs.com/)) about my recent software projects. reveal.js enables anyone with a web browser to create fully featured and beautiful presentations for free. [Check out the live demo](https://fervent-joliot-b679eb.netlify.app/) deployed on netlify.
+The Software Kids is a presentation slides (using reveal.js) about my recent software projects. reveal.js enables anyone with a web browser to create fully featured and beautiful presentations for free. [Check out the live demo](https://fervent-joliot-b679eb.netlify.app/) deployed on netlify.
 
-The framework comes with a broad range of features including [nested slides](https://revealjs.com/vertical-slides/), [Markdown support](https://revealjs.com/markdown/), [Auto-Animate](https://revealjs.com/auto-animate/), [PDF export](https://revealjs.com/pdf-export/), [speaker notes](https://revealjs.com/speaker-view/), [LaTeX support](https://revealjs.com/math/), [syntax highlighted code](https://revealjs.com/code/) and much more.
+[The framework](https://revealjs.com/) comes with a broad range of features including [nested slides](https://revealjs.com/vertical-slides/), [Markdown support](https://revealjs.com/markdown/), [Auto-Animate](https://revealjs.com/auto-animate/), [PDF export](https://revealjs.com/pdf-export/), [speaker notes](https://revealjs.com/speaker-view/), [LaTeX support](https://revealjs.com/math/), [syntax highlighted code](https://revealjs.com/code/) and much more.
 
 <h1>
   <a href="https://fervent-joliot-b679eb.netlify.app/" style="font-size: 3em;">Projects so far</a>
@@ -16,7 +16,7 @@ The framework comes with a broad range of features including [nested slides](htt
 1. [Classicle](https://github.com/EzzEddin/classicle)
 A Natural Language Processing project to classify articles into five classes.
 
-2. [Reck](https://github.com/EzzEddin/Reck)
+2. [Reck](https://github.com/EzzEddin/Reck)which
 A web application that can recognize and detect faces
 
 3. [Gatsby Portfolio](https://github.com/EzzEddin/my-gatsby-blog)
