@@ -16,7 +16,7 @@ The Software Kids is a presentation slides (using reveal.js) about my recent sof
 1. [Classicle](https://github.com/EzzEddin/classicle)
 A Natural Language Processing project to classify articles into five classes.
 
-2. [Reck](https://github.com/EzzEddin/Reck)which
+2. [Reck](https://github.com/EzzEddin/Reck)
 A web application that can recognize and detect faces
 
 3. [Gatsby Portfolio](https://github.com/EzzEddin/my-gatsby-blog)
