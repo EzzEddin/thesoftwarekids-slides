@@ -13,14 +13,11 @@
   <a href="https://swkids.netlify.app/" style="font-size: 3em;">Projects so far</a>
 </h1>
 
-1. [Classicle](https://github.com/EzzEddin/classicle)
-A Natural Language Processing project to classify articles into five classes.
+1. [Classicle](https://github.com/EzzEddin/classicle) - A Natural Language Processing project to classify articles into five classes.
 
-2. [Reck](https://github.com/EzzEddin/Reck)
-A web application that can recognize and detect faces
+2. [Reck](https://github.com/EzzEddin/Reck) - A web application that can recognize and detect faces
 
-3. [Gatsby Portfolio](https://github.com/EzzEddin/my-gatsby-blog)
-A sample website deployed on netlify to replicate my [github portfolio](https://ezzeddin.github.io/)
+3. [Gatsby Portfolio](https://github.com/EzzEddin/my-gatsby-blog) - A sample website deployed on netlify to replicate my [github portfolio](https://ezzeddin.github.io/)
 
 ## Documentation
 The full reveal.js documentation is available at [revealjs.com](https://revealjs.com).
