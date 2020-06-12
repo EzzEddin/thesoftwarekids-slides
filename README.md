@@ -5,7 +5,7 @@
   <br><br>
 </p>
 
-The Software Kids is a presentation slides (using reveal.js) about my recent software projects. reveal.js enables anyone with a web browser to create fully featured and beautiful presentations for free. [Check out the live demo](https://fervent-joliot-b679eb.netlify.app/) deployed on netlify.
+*The Software Kids* is presentation slides (using reveal.js) about my recent software projects. reveal.js enables anyone with a web browser to create fully featured and beautiful presentations for free. [Check out the live demo](https://swkids.netlify.app/) deployed on netlify.
 
 > [The framework](https://revealjs.com/) comes with a broad range of features including [nested slides] (https://revealjs.com/vertical-slides/), [Markdown support](https://revealjs.com/markdown/), [Auto-Animate](https://revealjs.com/auto-animate/), [PDF export](https://revealjs.com/pdf-export/), [speaker notes](https://revealjs.com/speaker-view/), [LaTeX support](https://revealjs.com/math/), [syntax highlighted code](https://revealjs.com/code/) and much more.
 
